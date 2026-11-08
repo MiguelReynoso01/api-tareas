@@ -29,7 +29,7 @@ API REST desarrollada con Node.js y Express para administrar tareas mediante ope
 
 1. Clonar el repositorio:
 
-   `git clone URL_DEL_REPOSITORIO`
+   `git clone https://github.com/mreynoso309-celda/API-tareas.git`
 
 2. Entrar a la carpeta:
 
